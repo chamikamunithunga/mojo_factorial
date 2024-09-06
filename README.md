@@ -1,3 +1,7 @@
+
+![Screenshot 2024-09-06 at 10 52 29 PM](https://github.com/user-attachments/assets/6a3d9223-eb27-458f-8ada-ee7d5f1ed1ad)
+
+
 Factorial Calculator
 --------------------
 This project is a Factorial Calculator web application, designed to take a user input and calculate its factorial. The application features a responsive design, an intuitive user interface, and animated transitions, making the user experience engaging and modern.
